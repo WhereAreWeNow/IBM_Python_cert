@@ -1,2 +1,2 @@
 # IBM_Python_cert
-## Repository for IBM Pytnon Project for Data Science course
+## Repository for IBM Python Project for Data Science course
